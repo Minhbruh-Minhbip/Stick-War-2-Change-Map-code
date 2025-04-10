@@ -11,7 +11,7 @@ This code will help you change map in Stick War 2 flash game
 
 ## How to use
 #### STEP 1:
--  Copy function code in [changeMap.as](https://github.com/Minhbruh-Minhbip/Stick-War-2-Change-Map-code/blob/main/changeMap.as)
+-  Copy function code of [changeMap.as](https://github.com/Minhbruh-Minhbip/Stick-War-2-Change-Map-code/blob/main/changeMap.as)
 #### STEP 2:
 -  Paste the function code into StickWar class in your stick war 2 swf file.
 #### STEP 3:
