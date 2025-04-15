@@ -10,11 +10,12 @@ This code will help you change map in Stick War 2 flash game
 - Fixed old map still remains after change map.
 
 ## How to use
+### For Stick Empires engine
 #### STEP 1:
--  Copy function code of [changeMap.as](https://github.com/Minhbruh-Minhbip/Stick-War-2-Change-Map-code/blob/main/changeMap.as)
+-  Copy function code of [changeMap.as](https://github.com/Minhbruh-Minhbip/Stick-War-2-Change-Map-code/blob/main/Stick%20Empires%20engine/changeMap.as)
 #### STEP 2:
 -  Paste the function code into StickWar class in your stick war 2 swf file.
 #### STEP 3:
--  Open [wayToUse.as](https://github.com/Minhbruh-Minhbip/Stick-War-2-Change-Map-code/blob/main/wayToUse.as) and bring it into your controllers class.
+-  Open [wayToUse.as](https://github.com/Minhbruh-Minhbip/Stick-War-2-Change-Map-code/blob/main/Stick%20Empires%20engine/wayToUse.ass) and bring it into your controllers class.
 
 I hope my change map code will help you in your mod (⌒‿⌒).
